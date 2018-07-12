@@ -1,3 +1,8 @@
+// A Simple Turtle Class using HDC
+// Cody Mitchell codymitchell1997@gmail.com July, 2018
+// Github: CodyWMitchell
+// This work is licensed under a Creative Commons Attribution 3.0 United States License.
+
 #pragma once
 class Turtle
 {
